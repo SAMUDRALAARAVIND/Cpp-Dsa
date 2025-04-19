@@ -10,6 +10,11 @@
 
 ### Data structures (CPP)
 
+#### Complexity analysis
+
+- Big O notation for both time & space complexity. 
+- Derive logn , sqrt(n), n^2 , 2^n, n! 
+
 #### Built in data structures (STL)
 
 Minimum requirement: `Learn crud operations and iteration on each data structure`
